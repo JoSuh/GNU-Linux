@@ -1,9 +1,7 @@
 #!/bin/bash
 #force the use of the bash shell
 
-# Lab 9
-# Jo Suh 040943462
-# CST8102 - 302
+# Jo Suh
 # myscript.sh
 # April.7, 2019
 # script that helps user manage (create, delete, change permissions...) of accounts

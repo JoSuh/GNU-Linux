@@ -1,2 +1,2 @@
 # GNU-Linux
- GNU/Linux works for educational purposes
+Bash scripts for educational purposes

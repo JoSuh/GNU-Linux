@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Jo Suh
-# 040943462
-# CST8102
 # Lab 8, April.6, 2019
 # This is the script for lab 8
 # which will calculate the final grade
